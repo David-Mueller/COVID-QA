@@ -1,0 +1,8 @@
+{
+  "short_name": "covid-frontend-qa-widget",
+  "name": "covid-frontend-qa-widget",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
